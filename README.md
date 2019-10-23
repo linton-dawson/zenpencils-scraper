@@ -7,6 +7,6 @@ Opens image using Pillow module and hence will open with whatever is the default
 
 Prerequisite modules :
 
-  beautifulsoup
+    beautifulsoup
 
-  requests
+    requests
