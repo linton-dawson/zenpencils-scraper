@@ -1,5 +1,5 @@
 # zenpencils-scraper
-A simple web scraper for Zen Pencils
+## A simple web scraper for Zen Pencils
 
 Scrapes zenpencils.com using its "Random" post feature.
 
